@@ -1,5 +1,5 @@
 """
-Hand Tracing Module
+Hand Tracking Module
 By: Murtaza Hassan
 Youtube: http://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
 Website: https://www.computervision.zone/
